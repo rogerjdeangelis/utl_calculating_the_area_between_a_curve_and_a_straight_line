@@ -1,0 +1,2 @@
+# utl_calculating_the_area_between_a_curve_and_a_straight_line
+Calculating the area between a curve and a straight line. Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
